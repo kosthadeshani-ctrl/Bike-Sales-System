@@ -1,0 +1,649 @@
+[15-Jul-2026 04:56:12 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 04:56:12 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 04:56:12 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 04:56:12 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 04:56:12 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 04:56:12 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 04:56:14 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 04:56:14 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 04:56:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 04:56:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 04:56:16 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 04:56:16 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 04:56:16 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 04:56:16 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 04:56:18 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 04:56:18 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:07:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:07:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:07:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:07:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:07:48 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:07:48 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:07:50 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:07:50 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:06 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:06 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:08 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:08 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:10 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:10 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:12 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:12 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:14 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:14 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:19 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:19 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:21 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:21 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:26 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:26 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:28 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:28 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:30 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:30 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:32 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:32 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:36 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:36 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:36 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 05:08:36 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 05:08:36 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 05:08:36 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 05:08:38 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:38 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:40 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:40 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:40 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 05:08:40 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 05:08:40 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 05:08:40 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 05:08:42 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:42 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:48 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:48 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:50 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:50 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:08:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:08:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:09:01 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:09:01 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:09:03 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:09:03 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:09:05 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:09:05 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:09:53 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:09:53 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:10 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:10 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:32 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:32 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:34 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:34 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:34 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 05:10:34 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 05:10:34 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 05:10:34 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 05:10:36 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:36 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:38 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:38 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:38 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 05:10:38 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 05:10:38 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 05:10:38 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 05:10:40 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:40 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:42 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:42 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:10:48 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:10:48 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:12:38 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:12:38 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:12:38 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 239
+[15-Jul-2026 05:12:40 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:12:40 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:12:42 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:12:42 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:12:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:12:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 05:12:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 05:12:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:00:05 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:00:05 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:00:05 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 239
+[15-Jul-2026 06:00:07 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:00:07 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:00:09 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:00:09 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:00:11 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:00:11 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:00:13 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:00:13 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:07:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:07:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:01 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:01 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:01 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:08:01 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:08:01 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:08:01 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:08:03 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:03 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:05 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:05 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:05 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:08:05 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:08:05 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:08:05 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:08:07 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:07 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:18 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:18 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:20 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:20 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:08:22 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:08:22 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:12:39 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:12:39 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:12:41 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:12:41 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:12:43 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:12:43 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:12:45 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:12:45 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:00 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:00 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:02 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:02 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:37 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:37 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:39 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:39 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:57 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:57 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:57 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:13:57 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:13:57 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:13:57 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:13:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:13:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:13:59 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:13:59 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:13:59 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:13:59 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:14:05 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:14:05 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:14:07 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:14:07 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:14:09 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:14:09 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:14:11 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:14:12 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:15:00 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:15:00 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:16:14 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:16:14 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:17:56 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:17:56 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:17:58 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:17:58 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:18:00 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:18:00 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:18:02 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:18:02 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:18:04 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:18:04 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:18:06 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:18:06 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:18:08 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:18:08 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:20:29 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:20:29 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:20:31 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:20:31 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:20:33 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:20:33 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:24 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:24 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:26 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:26 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:28 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:28 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:30 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:30 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:32 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:32 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:22:34 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:22:34 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:49 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:49 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:51 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:51 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:51 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:23:51 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:23:51 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:23:51 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:23:53 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:53 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:55 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:55 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:55 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 06:23:55 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 06:23:55 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 06:23:55 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 06:23:57 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:57 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:23:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:23:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 06:24:01 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 06:24:01 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:02:43 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:02:43 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:02:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:02:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:02:46 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:02:46 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:02:46 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:02:46 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:02:48 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:02:48 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:02:50 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:02:50 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:02:50 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:02:50 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:02:50 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:02:50 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:02:52 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:02:52 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:06:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:06:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:06:46 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:06:46 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:09:26 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:09:26 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:09:26 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:09:26 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:09:26 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:09:26 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:09:28 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:09:28 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:09:28 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:09:28 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:09:28 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:09:28 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:24:49 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:24:49 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:24:49 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:24:49 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:24:49 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:24:49 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:24:51 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:24:51 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:24:53 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:24:53 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:24:53 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:24:53 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:24:53 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:24:53 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:24:55 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:24:55 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:30:58 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:30:58 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:30:58 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:30:58 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:30:58 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:30:58 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:31:00 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:00 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:02 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:02 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:02 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:31:02 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:31:02 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:31:02 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:31:04 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:04 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:07 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:07 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:10 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:10 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:10 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:31:10 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:31:10 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:31:10 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:31:12 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:12 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:14 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:14 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:14 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 478
+[15-Jul-2026 08:31:14 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 479
+[15-Jul-2026 08:31:14 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 480
+[15-Jul-2026 08:31:14 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 481
+[15-Jul-2026 08:31:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:44 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:44 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:55 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:55 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:57 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:57 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:31:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:31:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:32:01 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:32:01 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:32:03 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:32:03 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:32:05 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:32:05 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:32:07 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:32:07 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:32:54 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:32:54 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:50:20 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:50:20 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:50:59 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:50:59 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:08 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:08 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:10 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:10 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:12 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:12 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:14 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:14 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:18 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:18 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:20 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:20 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:51:24 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:51:24 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:52:43 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:52:43 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:59:16 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:59:16 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:59:18 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:59:18 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:59:18 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 497
+[15-Jul-2026 08:59:18 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 498
+[15-Jul-2026 08:59:18 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 499
+[15-Jul-2026 08:59:18 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 500
+[15-Jul-2026 08:59:20 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:59:20 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:59:22 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:59:22 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 08:59:22 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 497
+[15-Jul-2026 08:59:22 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 498
+[15-Jul-2026 08:59:22 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 499
+[15-Jul-2026 08:59:22 Europe/Berlin] PHP Error: Undefined array key "count" in c:\Users\User\Desktop\new project\backend\index.php on line 500
+[15-Jul-2026 08:59:24 Europe/Berlin] MySQL connection failed: SQLSTATE[HY000] [2002] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[15-Jul-2026 08:59:24 Europe/Berlin] Switched to mock database for development
+[15-Jul-2026 09:02:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:02:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:02:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:02:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:03:06 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:04 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:07:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:08:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:08:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:08:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:08:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:09:48 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:09:48 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 258
+[15-Jul-2026 09:09:48 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:09:48 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:09:48 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:09:48 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:10:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:57 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:57 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:57 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:11:57 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 09:12:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:25 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:49:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:03 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:03 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:03 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:03 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:03 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:50:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:13 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:13 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:13 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:13 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:13 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:52:14 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:01 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:21 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:21 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:21 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:53:21 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:54:16 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:54:16 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:55:58 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:38 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 10:56:38 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:42 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:42 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:42 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:42 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:45 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:45 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:45 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:36:45 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:37:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:37:26 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:37:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:37:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:40:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:40:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:40:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:40:40 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:40:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:44 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:44 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:44 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:44 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:44:59 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:45:00 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:45:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:45:27 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:46:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:46:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:46:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:46:30 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:47:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:47:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:47:07 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:47:08 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:48:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:48:41 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 258
+[15-Jul-2026 12:48:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:48:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:48:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:48:41 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:49:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:49:56 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 258
+[15-Jul-2026 12:49:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:49:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:49:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:49:56 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:31 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 293
+[15-Jul-2026 12:50:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:31 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:55 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 293
+[15-Jul-2026 12:50:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:50:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:17 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 293
+[15-Jul-2026 12:51:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:17 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:18 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:35 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 293
+[15-Jul-2026 12:51:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:35 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:52 Europe/Berlin] PHP Error: Trying to access array offset on value of type null in c:\Users\User\Desktop\new project\backend\index.php on line 293
+[15-Jul-2026 12:51:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:51:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:10 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:32 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:32 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:32 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:52:32 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:53:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:53:46 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:53:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:53:55 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:05 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:54:52 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[15-Jul-2026 12:56:20 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:07 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:28 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:28 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:28 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:28 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:28 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:34 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:34 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:34 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:34 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:49 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:41:49 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:09 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:09 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:09 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:09 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:42 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:42 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:42 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:42:42 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:43:06 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:43:06 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:43:06 Europe/Berlin] MySQL Database connected successfully
+[19-Jul-2026 15:43:06 Europe/Berlin] MySQL Database connected successfully
